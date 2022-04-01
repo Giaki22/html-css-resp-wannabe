@@ -71,7 +71,9 @@ img {
 .clear {
   clear: both;
 }
-/* LET'S MAKE THIS RUN */ 
+/* LET'S MAKE THIS RUN */
+/* UOPS, FIRST COMMIT ALREADY SOLVED :/
+   MY BAD                               */
 @media screen and (max-width:1000px) {
   .container, .row{
     display: flex;
